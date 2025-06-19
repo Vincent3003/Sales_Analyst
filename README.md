@@ -3,7 +3,7 @@
 **Overview:** The Glow Company's marketing team wanted to analyze sales and customer data from 1970 to 1984 to uncover insights into product performance, customer preferences, and sales patterns. The project aimed to support informed marketing and inventory management decision-making by identifying key factors influencing product success and customer engagement.
 
 **Data:** The dataset includes customer reviews, product sales, and feedback data, encompassing various product attributes such as category, promotional channels (e.g., Sephora-exclusive, online-only), and customer engagement metrics. The data spans over a decade, providing a comprehensive view of trends and changes in customer behavior and product performance.
-- product_indo.csv: The original dataset containing information on over 8,000 beauty products from the Sephora online store, including product and brand names, prices, ingredients, ratings, and other attributes.
+- product_info.csv: The original dataset containing information on over 8,000 beauty products from the Sephora online store, including product and brand names, prices, ingredients, ratings, and other attributes.
 - reviews_0-250.csv, reviews_250-500.csv, reviews_500-750.csv, reviews_750-1250.csv, and reviews_1250-end.csv: These files contain user reviews (approximately 1 million reviews on over 2,000 products) from the Skincare category, including details on user appearances and ratings from other users.
 - product_clean.csv: A cleaned version of the product information dataset.
 - review_clean.csv: A cleaned version of the user review dataset.
