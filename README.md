@@ -1,14 +1,13 @@
 # Sales Analyst for The Glow Company
 
-🧠 Project Overview: Partnered with The Glow Co.’s marketing team to analyze sales and customer data to uncover key insights into product performance, promotional effectiveness, and customer engagement. The goal was to drive data-informed decisions across marketing and inventory strategy.
+🧠 **Project Overview:** Partnered with The Glow Co.’s marketing team to analyze sales and customer data to uncover key insights into product performance, promotional effectiveness, and customer engagement. The goal was to drive data-informed decisions across marketing and inventory strategy.
 
-⚠️ Key challenges:
+⚠️ **Key challenges:**
+- Limited visibility into top-performing products and their revenue contributions.
+- Difficulty evaluating promotional strategies (e.g., Sephora-exclusive, online-only).
+- Inconsistent performance across product categories.
 
-Limited visibility into top-performing products and their revenue contributions.
-Difficulty evaluating promotional strategies (e.g., Sephora-exclusive, online-only).
-Inconsistent performance across product categories.
 🎯 Objectives:
-
 Identify high-performing products and revenue drivers.
 Assess promotional channel effectiveness.
 Understand customer preferences by category to inform future campaigns.
