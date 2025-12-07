@@ -8,18 +8,18 @@
 - Inconsistent performance across product categories.
 
 🎯 Objectives:
-Identify high-performing products and revenue drivers.
-Assess promotional channel effectiveness.
-Understand customer preferences by category to inform future campaigns.
+- Identify high-performing products and revenue drivers.
+- Assess promotional channel effectiveness.
+- Understand customer preferences by category to inform future campaigns.
+
 🛠️ Method & Tools:
+- **R:** Data cleaning, preprocessing, and enrichment
+- **SQL:** Product, sales, and customer review querying.
+- **Power BI:** Interactive dashboards for customer segmentation and trend analysis.
 
-R: Data cleaning, preprocessing, and enrichment
-SQL: Product, sales, and customer review querying.
-Power BI: Interactive dashboards for customer segmentation and trend analysis.
 📈 Impact & Insights:
-
-🏆 Bestsellers Identified: Highlighted top-performing products like “Lip Sleeping Mask” and “Crème de la Mer,” which together drove over $500K in revenue.
-📢 Promotional Performance: Sephora-exclusive products contributed over 50% of sales; online-only products drove 47.66% of total volume, demonstrating the significant influence of these distribution channels​.
+- 🏆 **Bestsellers Identified:** Highlighted top-performing products like “Lip Sleeping Mask” and “Crème de la Mer,” which together drove over $500K in revenue.
+- 📢 **Promotional Performance:** Sephora-exclusive products contributed over 50% of sales; online-only products drove 47.66% of total volume, demonstrating the significant influence of these distribution channels.
 👥 Customer Trends: Moisturizers, treatments, and cleansers were the most engaging categories, with skincare products showing the strongest customer retention.
 📌 Conclusion & Strategic Recommendations:
 
