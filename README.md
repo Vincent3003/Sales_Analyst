@@ -20,11 +20,10 @@
 📈 Impact & Insights:
 - 🏆 **Bestsellers Identified:** Highlighted top-performing products like “Lip Sleeping Mask” and “Crème de la Mer,” which together drove over $500K in revenue.
 - 📢 **Promotional Performance:** Sephora-exclusive products contributed over 50% of sales; online-only products drove 47.66% of total volume, demonstrating the significant influence of these distribution channels.
-👥 Customer Trends: Moisturizers, treatments, and cleansers were the most engaging categories, with skincare products showing the strongest customer retention.
-📌 Conclusion & Strategic Recommendations:
+- 👥 **Customer Trends:** Moisturizers, treatments, and cleansers were the most engaging categories, with skincare products showing the strongest customer retention.
 
-✅ Conclusion: Doubling down on high-performing skincare segments and prioritizing Sephora-exclusive and online sales channels can meaningfully boost engagement and revenue.
-🔁 Recommendations: Implement a balanced multi-channel strategy to optimize product performance, and develop tailored campaigns for underperforming segments like eye care and sunscree.
-🔗 View Full Repor:
+📌 **Conclusion & Strategic Recommendations:
 
-Click here
+✅ **Conclusion:** Doubling down on high-performing skincare segments and prioritizing Sephora-exclusive and online sales channels can meaningfully boost engagement and revenue.
+
+🔁 **Recommendations: Implement a balanced multi-channel strategy to optimize product performance, and develop tailored campaigns for underperforming segments like eye care and sunscree.
