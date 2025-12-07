@@ -1,27 +1,31 @@
 # Sales Analyst for The Glow Company
 
-**Overview:** The Glow Company's marketing team wanted to analyze sales and customer data from 1970 to 1984 to uncover insights into product performance, customer preferences, and sales patterns. The project aimed to support informed marketing and inventory management decision-making by identifying key factors influencing product success and customer engagement.
+🧠 Project Overview: Partnered with The Glow Co.’s marketing team to analyze sales and customer data to uncover key insights into product performance, promotional effectiveness, and customer engagement. The goal was to drive data-informed decisions across marketing and inventory strategy.
 
-**Data:** The dataset includes customer reviews, product sales, and feedback data, encompassing various product attributes such as category, promotional channels (e.g., Sephora-exclusive, online-only), and customer engagement metrics. The data spans over a decade, providing a comprehensive view of trends and changes in customer behavior and product performance.
-- product_info.csv: The original dataset containing information on over 8,000 beauty products from the Sephora online store, including product and brand names, prices, ingredients, ratings, and other attributes.
-- reviews_0-250.csv, reviews_250-500.csv, reviews_500-750.csv, reviews_750-1250.csv, and reviews_1250-end.csv: These files contain user reviews (approximately 1 million reviews on over 2,000 products) from the Skincare category, including details on user appearances and ratings from other users.
-- product_clean.csv: A cleaned version of the product information dataset.
-- review_clean.csv: A cleaned version of the user review dataset.
+⚠️ Key challenges:
 
-**Methods:**
-- **R:** Used for data cleaning and enrichment to prepare the dataset for analysis.
-- **SQL:** Utilized to query the product, review, and sales data to extract relevant insights.
-- **Power BI:** Employed to create interactive dashboards, enabling visualization of product performance, customer segmentation, and sales trends.
+Limited visibility into top-performing products and their revenue contributions.
+Difficulty evaluating promotional strategies (e.g., Sephora-exclusive, online-only).
+Inconsistent performance across product categories.
+🎯 Objectives:
 
-**Key Results:**
-- **Top-Performing Products:** We identified bestsellers such as the "Lip Sleeping Mask" and "Crème de la Mer" moisturizer, which collectively contributed over $500K in sales.
-- **Promotional Impact:** Products sold exclusively through Sephora represented over 50% of sales, while online-only products accounted for 47.66% of the sales volume, emphasizing the value of these channels.
-- **Customer Preferences:** Skincare categories, particularly moisturizers, treatments, and cleansers, led in sales and showed the highest levels of customer engagement.
+Identify high-performing products and revenue drivers.
+Assess promotional channel effectiveness.
+Understand customer preferences by category to inform future campaigns.
+🛠️ Method & Tools:
 
-**Model Evaluation Results:**
-- The analysis of different product categories and channels provided actionable insights into promotional strategies' revenue contribution and effectiveness, highlighting the impact of Sephora-exclusive and online-only channels on sales.
-- Data modeling techniques indicated that focusing on high-performing categories and leveraging online and exclusive channels could optimize sales outcomes.
+R: Data cleaning, preprocessing, and enrichment
+SQL: Product, sales, and customer review querying.
+Power BI: Interactive dashboards for customer segmentation and trend analysis.
+📈 Impact & Insights:
 
-**Recommendations:**
-- **Implement a Balanced Multi-Channel Strategy:** Develop a strategy that leverages both online and in-store channels to maximize reach for top-performing products.
-- **Targeted Strategy for Eye Care and Sunscreen Categories:** Focus on growing these categories by targeting customers with tailored marketing and promotional efforts to increase engagement and sales in these areas.
+🏆 Bestsellers Identified: Highlighted top-performing products like “Lip Sleeping Mask” and “Crème de la Mer,” which together drove over $500K in revenue.
+📢 Promotional Performance: Sephora-exclusive products contributed over 50% of sales; online-only products drove 47.66% of total volume, demonstrating the significant influence of these distribution channels​.
+👥 Customer Trends: Moisturizers, treatments, and cleansers were the most engaging categories, with skincare products showing the strongest customer retention.
+📌 Conclusion & Strategic Recommendations:
+
+✅ Conclusion: Doubling down on high-performing skincare segments and prioritizing Sephora-exclusive and online sales channels can meaningfully boost engagement and revenue.
+🔁 Recommendations: Implement a balanced multi-channel strategy to optimize product performance, and develop tailored campaigns for underperforming segments like eye care and sunscree.
+🔗 View Full Repor:
+
+Click here
