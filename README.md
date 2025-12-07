@@ -22,7 +22,7 @@
 - 📢 **Promotional Performance:** Sephora-exclusive products contributed over 50% of sales; online-only products drove 47.66% of total volume, demonstrating the significant influence of these distribution channels.
 - 👥 **Customer Trends:** Moisturizers, treatments, and cleansers were the most engaging categories, with skincare products showing the strongest customer retention.
 
-📌 **Conclusion & Strategic Recommendations:
+📌 **Conclusion & Strategic Recommendations:**
 
 ✅ **Conclusion:** Doubling down on high-performing skincare segments and prioritizing Sephora-exclusive and online sales channels can meaningfully boost engagement and revenue.
 
